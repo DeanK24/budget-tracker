@@ -17,6 +17,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 The user should clone the repository from GitHub and install dependencies. To run server, run `npm start`. 
 
 ## Usage 
+Deployed Application: on [Heroku](https://immense-dusk-70427.herokuapp.com/v)
 <img src='public/Screenshot of budget tracker.png'>
 
 ## Contributing 
