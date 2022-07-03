@@ -10,10 +10,8 @@ THEN the deposits or expenses added while they were offline are added to their t
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
-* [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
-* [Questions](#questions)
 
 ## Installation 
 The user should clone the repository from GitHub and install dependencies. To run server, run `npm start`. 
